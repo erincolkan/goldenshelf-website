@@ -43,12 +43,14 @@ html, body, .cover {
 }
 
 #description {
-	background: #100000 ;
+	background:goldenrod ;
+	height: 200px;
+	padding: 40px;
 }
 
 
 section {
-	padding: 100px;
+	padding: 80px;
 }
 
 h2.dark{
@@ -66,7 +68,7 @@ h2.light{
 	font-size: 28px;
 	font-weight: bold;
 	text-transform: uppercase;
-	margin: 0 0 60px;
+	margin: 0 0px 60px;
 }
 
 h2 + p{
@@ -85,7 +87,7 @@ h2 + p{
 
 footer{
 	height: 40px;
-	background: #222;
+	background: goldenrod;
 	color:beige;
 	text-align: center;
 	padding: 10px;
