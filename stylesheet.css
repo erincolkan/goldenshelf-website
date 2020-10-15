@@ -32,7 +32,7 @@ html, body, .cover {
 
 .cover-text h1 {
 	font-size: 60px;
-	color:black;
+	color: black;
 	margin: 0;
 	letter-spacing: -4px;
 }
@@ -43,7 +43,7 @@ html, body, .cover {
 }
 
 #description {
-	background:goldenrod ;
+	background: #f0a500 ;
 	height: 200px;
 	padding: 40px;
 }
@@ -78,7 +78,7 @@ h2 + p{
 
 
 #team {
-	background: url('img/fan.jpg') top left no-repeat;
+	background-color: #393b44;
 	background-size: cover;
 	color: white;
 	text-align: center;
@@ -87,8 +87,7 @@ h2 + p{
 
 footer{
 	height: 40px;
-	background: goldenrod;
-	color:beige;
+	background: #f0a500;
 	text-align: center;
 	padding: 10px;
 	font-family: Times, sans-serif, serif;

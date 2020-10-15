@@ -1,11 +1,5 @@
-# Hipster-Startup-Website
+Hello there.
 
-•	Designed my first responsive website, using HTML5, CSS3 and Bootstrap3.
+This website is a static website that we have created in order to present our non-profit mobile application about book sharing.
 
-•	This website is responsive as it is compatible for the various versions of small devices and extra small devices.
-
-
-Locally hosted githubpages : https://ashwin7mak.github.io/Hipster-Startup-Website/startup.html
-
-
-![alt tag](https://s11.postimg.org/gttfm5koz/Hipster.png)
+Thank you for your attention and support.
