@@ -1,5 +1,5 @@
-Hello there.
+GoldenShelf Website
 
-This website is a static website that we have created in order to present our non-profit mobile application about book sharing.
+This website has been created with the purpose of introducing our non-profit mobile application named GoldenShelf where people within the same city can exchange and donate books.
 
-Thank you for your attention and support.
+Thank you.
